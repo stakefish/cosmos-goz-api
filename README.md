@@ -2,7 +2,7 @@
 
 ## Build status
 
-[![pipeline status](https://gitlab.fish/stakefish/cosmos-goz-api/badges/master/pipeline.svg)](https://gitlab.fish/stakefish/cosmos-goz-api/commits/master)
+![Integrity](https://github.com/stakefish/cosmos-goz-api/workflows/Integrity/badge.svg?branch=master)
 
 ## Development environment
 
@@ -21,5 +21,3 @@ Also to bring postgres down just type in:
 After the packages have been installed start the application by running:
 
     npm run dev
-
- 
