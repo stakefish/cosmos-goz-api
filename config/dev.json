@@ -1,0 +1,13 @@
+{
+  "db": {
+    "type": "postgres",
+    "host": "localhost",
+    "port": 6433,
+    "username": "test",
+    "password": "test",
+    "database": "cosmos-goz-api",
+    "synchronize": true,
+    "logging": false,
+    "entities": ["build/entities/*.js"]
+  }
+}
